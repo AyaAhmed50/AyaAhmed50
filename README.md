@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I am a passionate Full Stack Developer interested in building modern web applications and ERP systems. I enjoy working on both frontend and backend development and continuously learning new technologies.<br><br>On the frontend, I use HTML, CSS, and JavaScript to create responsive and user-friendly interfaces. On the backend, I work with Python, Java, and MySQL, building APIs with FastAPI and integrating systems like Odoo ERP to deliver scalable solutions.<br><br></p>
+<p align="left">I am a passionate Full Stack Developer interested in building modern web applications and ERP systems. I enjoy working on both frontend and backend development and continuously learning new technologies.<br><br>On the frontend, I use HTML, CSS, and JavaScript to create responsive and user-friendly interfaces. On the backend, I work with Python, Java, and MySQL, building APIs with FastAPI and integrating systems like Odoo ERP to deliver scalable solutions.<br><br></p> 
 
 
 ###
